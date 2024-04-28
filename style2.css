@@ -94,3 +94,8 @@ p {
 .p1 {
 	color: grey;
 }
+
+.p2 {
+	color: grey;
+	font-size: 10px;
+}
