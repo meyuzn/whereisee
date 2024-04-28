@@ -21,6 +21,10 @@ li {
 	list-style:none;
 }
 
+a {
+	color: black;
+}
+
 header {
 	background-color: white;
 	text-align: center;
