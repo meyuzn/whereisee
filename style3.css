@@ -1,3 +1,9 @@
+@media screen and (max-width: 900px) {
+	.s3 {
+		padding: 10px;
+	}
+}
+
 *{
 	padding: 0px;
 	margin: 0px;
@@ -101,7 +107,7 @@ ul {
 }
 
 p {
-  	padding: 10px;
+	padding-bottom: 10px;
   	word-break: keep-all;
 	letter-spacing: 0.4px;
 	line-height: 1.5;
@@ -121,7 +127,7 @@ h3 {
 }
 
 iframe { 
-  	width: 400px;
+  	width: 350px;
   	height: 200px;
 }
 
